@@ -1,0 +1,7 @@
+{
+  "name": "LexGuard AI - Contract Analysis",
+  "description": "A minimalist legal-tech application for automated contract review, risk assessment, and negotiation suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
